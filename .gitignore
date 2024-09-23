@@ -1,0 +1,4 @@
+*__pycache__/*
+*venv/*
+*Kafka setup/kafka/*
+*Postgresql_setup/postgres_data/*
