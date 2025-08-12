@@ -2,3 +2,4 @@
 *venv/*
 *Kafka setup/kafka/*
 *Postgresql_setup/postgres_data/*
+*.venv/*
